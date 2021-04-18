@@ -2,23 +2,29 @@
 
 Endpoints are Included:
 
-#Register User 
-WorkoutLog/Project Screenshots/User:Register  Endpoint.png
+Register User <br />
+![Register User](https://github.com/jgpowellcreates/workoutLog-server/blob/main/assets/User:Register%20%20Endpoint.png)
+<hr /><br />
 
-#Login User 
-WorkoutLog/Project Screenshots/User:Login Endpoint.png
+Login User <br />
+![Login User](https://github.com/jgpowellcreates/workoutLog-server/blob/main/assets/User:Login%20Endpoint.png)
+<hr /><br />
 
-#Post New Log
-WorkoutLog/Project Screenshots/Log: New Log Endpoint.png
+Post New Log <br />
+![Post New Log](https://github.com/jgpowellcreates/workoutLog-server/blob/main/assets/Log:%20New%20Log%20Endpoint.png)
+<hr /><br />
 
-#See All User Logs
-WorkoutLog/Project Screenshots/Log: - All Logs Endpoint.png
+See All User Logs <br />
+![All User Logs](https://github.com/jgpowellcreates/workoutLog-server/blob/main/assets/Log:%20All%20Logs%20Endpoint.png)
+<hr /><br />
 
-#See One User Log
-WorkoutLog/Project Screenshots/Log: Get Single Log Endpoint.png
+See One User Log <br/>
+![One User Logs](https://github.com/jgpowellcreates/workoutLog-server/blob/main/assets/Log:%20Get%20Single%20Log%20Endpoint.png)
+<hr /><br />
 
-#Edit Log Entry
-WorkoutLog/Project Screenshots/Log: Edit Log Endpoint.png
+Edit Log Entry <br/>
+![Edit Log](https://github.com/jgpowellcreates/workoutLog-server/blob/main/assets/Log:%20Edit%20Log%20Endpoint.png)
+<hr /><br />
 
-#Delete Log Entry
-WorkoutLog/Project Screenshots/Log: Delete Log Endpoint.png
+Delete Log Entry <br />
+![Delete Log](https://github.com/jgpowellcreates/workoutLog-server/blob/main/assets/Log:%20Delete%20Log%20Endpoint.png)
